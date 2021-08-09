@@ -1,82 +1,82 @@
 # WEB-DEVELOPMENT-RAILWAY-TICKET-RESERVATION-SYSTEM
-This Website is built for following purpose:-
+#This Website is built for following purpose:-
 
 
 
-View Trains Schedule
+->View Trains Schedule
 
 
-Search Trains
+->Search Trains
 
 
-Seat Availability
-
-
-
-Train Timings
-
-Booking seats online.
-
-Login and Logout Security
-
-
-The Admin have the following access to this website:-
+->Seat Availability
 
 
 
-Login
+->Train Timings
 
-Add Trains
+->Booking seats online.
 
-Update Trains
-
-Remove or cancle Trains
-
-View Trains
-
-Profile Edit
-
-Logout
-
-The Users have the following Access:-
+->Login and Logout Security
 
 
-Register
+#The Admin have the following access to this website:-
 
-Login
 
-View Trains
 
-Check Seat Availability
+->Login
 
-Search Trains
+->Add Trains
 
-Train Avaiablity 
+->Update Trains
 
-Books Tickets
+->Remove or cancle Trains
 
-View Profile
+->View Trains
 
-Update Profile
+->Profile Edit
 
-Change Password
+->Logout
 
-Logout
+#The Users have the following Access:-
 
-Technologies used:-
 
-Front-End Development:
+->Register
 
-Html
+->Login
 
-Css
+->View Trains
 
-Javascript
+->Check Seat Availability
 
-Back-End Development
+->Search Trains
 
-JDBC
+->Train Avaiablity 
 
-PHP
+->Books Tickets
 
-My SQL
+->View Profile
+
+->Update Profile
+
+->Change Password
+
+->Logout
+
+#Technologies used:-
+
+##Front-End Development:
+
+->Html
+
+->Css
+
+->Javascript
+
+##Back-End Development
+
+->JDBC
+
+->PHP
+
+->My SQL
